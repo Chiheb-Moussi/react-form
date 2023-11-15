@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       {/* <SignUpForm /> */}
-      <UserRegistration />
+      {/* <UserRegistration /> */}
       {/* <Signup2 /> */}
       <StudentRegister />
     </>
